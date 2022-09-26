@@ -1,0 +1,13 @@
+body {
+    background-color: lightgray;
+}
+
+section {
+    background-color: aquamarine;
+    width: 200px;
+    padding: 25px;
+    border: 25px solid black;
+    margin: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
